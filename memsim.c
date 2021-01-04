@@ -1,12 +1,9 @@
 //
-// 운영체제
+// Operaitng System
 // Virtual Memory Simulator Homework
 // One-level page table system with FIFO and LRU
 // Two-level page table system with LRU
 // Inverted page table with a hashing system 
-// Submission Year:2020
-// Student Name:박동준
-// Student Number:B511062
 //
 
 #include <stdio.h>
